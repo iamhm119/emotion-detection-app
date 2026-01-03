@@ -38,7 +38,6 @@ The model is trained using classical machine learning techniques to ensure:
 ---
 
 ## 🛠️ Tech Stack
-
 - Python
 - Scikit-learn
 - NLTK
@@ -47,6 +46,11 @@ The model is trained using classical machine learning techniques to ensure:
 
 ---
 
+## 🖼️ Application Screenshot
+
+Below is a sample output of the Emotion Detection application running locally:
+
+![Emotion Detection App Screenshot](images/output.png)
 
 ---
 
@@ -57,5 +61,3 @@ To run the application locally:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-
